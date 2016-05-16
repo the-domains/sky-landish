@@ -1,6 +1,6 @@
 name: SKY LANDISH
 favicon: null
-layout_spectrum: 0.25996
+layout_spectrum: 0.47633
 typography_spectrum: 0.05499
 title: SKY A LANDISH
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.75
+    - '#fefefe'
+    - '#201827'
+    - '#d3bdaf'
+    - '#9e6a42'
+    - '#535e13'
+  brandStrength: 0.5
   lightness: 0.375
   saturation: 0.3125
   rhythmicContrast: 0.5
